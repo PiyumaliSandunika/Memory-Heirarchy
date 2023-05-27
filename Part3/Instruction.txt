@@ -1,0 +1,6 @@
+                 Register      Value
+loadi 4 #25         4            25
+loadi 5 #35         5            35
+add 6 4 5           6            60
+loadi 1 90          1            90
+sub 1 1 4           1            65
